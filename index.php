@@ -16,6 +16,8 @@ $needs_to_pee = TRUE;
 include "printHelp.php";
 include "gameRound.php";
 
+//sf
+
 include "printStatus.php";
 include "changeLocation.php";
 include "lookAround.php";
